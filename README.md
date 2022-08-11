@@ -10,7 +10,7 @@
 ##
 
 
-## Tecnologias que eu tenho afinidade para desenvolver
+## Estou desenvolvendo minhas habilidades nas tecnologias inframencionadas.
 
 <div style="display: inline_block"></br>
     <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
