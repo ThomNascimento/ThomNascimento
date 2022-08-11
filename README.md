@@ -37,8 +37,3 @@
     <img alt="github" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-
-## Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=ThomNascimento)]
-
