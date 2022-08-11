@@ -40,7 +40,5 @@
 
 ## Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=infra-asa)](https://github.com/ThomNascimento/infra-asa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=mail-asa)](https://github.com/ThomNascimento/mail-asa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=ASA-2022)](https://github.com/ThomNascimento/ASA-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=ThomNascimento)]
 
