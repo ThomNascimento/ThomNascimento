@@ -36,3 +36,11 @@
     <img alt="git" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="github" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
+
+
+## Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=infra-asa)](https://github.com/ThomNascimento/infra-asa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=mail-asa)](https://github.com/ThomNascimento/mail-asa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomNascimento&repo=ASA-2022)](https://github.com/ThomNascimento/ASA-2022)
+
