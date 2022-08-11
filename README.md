@@ -7,8 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNascimento&layout=compact)](https://github.com/ThomNascimento/github-readme-stats&theme=defout"/>
 </div></br>
 
-##
-
 
 ## Estou desenvolvendo minhas habilidades nas tecnologias inframencionadas.
 
@@ -24,7 +22,6 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-##
 
 ## Outras tecnologias que eu utilizo no meu dia a dia
 
