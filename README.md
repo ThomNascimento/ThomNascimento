@@ -3,8 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/user.thom)</br>
 
 <div>
+<a href="https://github.com/ThomNascimento">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomNascimento&show_icons=true&theme=defout"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNascimento&layout=compact)](https://github.com/ThomNascimento/github-readme-stats&theme=defout"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNascimento&layout=compact"/>
 </div></br>
 
 
