@@ -4,8 +4,8 @@
 
 <div style="display: inline-block">
     <a href="https://github.com/ThomNascimento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomNascimento&show_icons=true&theme=defout"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNascimento&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThomNascimento&show_icons=true&theme=defout"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNascimento&layout=compact"/>
 </div></br>
 
 
