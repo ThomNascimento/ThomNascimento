@@ -24,8 +24,7 @@
 ## Outras tecnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block"></br>
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img alt="bash" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img alt="bash" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img alt="docker" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img alt="vscode" height="40em" width="40" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
